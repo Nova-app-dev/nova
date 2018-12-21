@@ -124,31 +124,22 @@ margin-left: -8px;
 overflow: hidden;
 }
 .btn {
-  background: #ff1289;
-  background-image: -webkit-linear-gradient(top, #ff1289, #0785e6);
-  background-image: -moz-linear-gradient(top, #ff1289, #0785e6);
-  background-image: -ms-linear-gradient(top, #ff1289, #0785e6);
-  background-image: -o-linear-gradient(top, #ff1289, #0785e6);
-  background-image: linear-gradient(to bottom, #ff1289, #0785e6);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
   border-radius: 28px;
   font-family: Arial;
-  color: #fcfffd;
-  font-size: 23px;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
 .btn:hover {
-  background: #278bc4;
-  background-image: -webkit-linear-gradient(top, #278bc4, #d134d9);
-  background-image: -moz-linear-gradient(top, #278bc4, #d134d9);
-  background-image: -ms-linear-gradient(top, #278bc4, #d134d9);
-  background-image: -o-linear-gradient(top, #278bc4, #d134d9);
-  background-image: linear-gradient(to bottom, #278bc4, #d134d9);
+  background: #0065a3;
   text-decoration: none;
 }
+
 .intro{
   font-size: 32px;
 }
